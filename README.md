@@ -1,6 +1,6 @@
 <p>
   <h1 align="center">
-    <b>Hi there, I'm <a href="https://thomaswcy.gitbook.io">thomaswcy</a> 👋</b>
+    <b>Hi there, I'm thomaswcy</a> 👋</b>
   </h1>
 </p>
 
