@@ -1,11 +1,16 @@
-<p>
-  <h1 align="center">
-    <b>Hi there, I'm thomaswcy</a> 👋</b>
-  </h1>
-</p>
+### Welcome to Thomas Wu (吳承泳)'s Github!
 
-<p align="center">
-  <a href="https://github.com/thomaswcy">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=thomaswcy&hide=issues&hide_title=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-    </a>
-</p>
+![Thomas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thomaswcy&show_icons=true&theme=radical)
+
+
+
+Hi there! I am Thomas Wu (吳承泳), a student developer from China. 
+
+I am also the Founder & CEO at [LinkScape](https://github.com/LinkScapeOfficial), a student-led nonprofit working on future open-source softwares.
+
+## Contact and follow me
+
+SMS and Voicemail: +1 (513) 461-6628
+
+Email: thomaswcy@hotmail.com and [thomas@linkscape.app](mailto:thomas@linkscape.app)
+
