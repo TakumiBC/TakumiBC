@@ -1,4 +1,4 @@
-### Welcome to Thomas Wu (吳承泳)'s Github!
+### Welcome to Thomas Wu (吳承泳)'s GitHub!
 
 ![Thomas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thomaswcy&show_icons=true&theme=radical)
 
