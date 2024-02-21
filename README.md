@@ -1,6 +1,6 @@
 ### Welcome to Thomas Wu's GitHub!
 
-![Thomas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thomaswcy&show_icons=true&theme=radical)
+![Thomas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TakumiBC&show_icons=true&theme=radical)
 
 
 
