@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Thomas Wu
+# Hi there! 👋 I'm Thomas Wu ![Hack Club](https://img.shields.io/badge/Hack%20Club-EC3750.svg?style=for-the-badge&logo=Hack-Club&logoColor=white)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TakumiBC&show_icons=true&theme=radical)
 
