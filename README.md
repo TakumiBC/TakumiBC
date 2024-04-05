@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Thomas Wu
+# Hi there! 👋 I'm Thomas Wu!
 
 
 
@@ -9,8 +9,9 @@
 
 I am Thomas Wu, a student developer from Shanghai, China. 
 
-I am also the Founder & CEO at [LinkScape](https://github.com/LinkScapeOfficial), a student-led nonprofit working on future open-source softwares.
+I am also the Founder & CEO at [LinkScape](https://www.linkscape.app/), a student-led organization where student hackers hack, build, and compete together. [LinkScape](https://www.linkscape.app/) is a part of the [Hack Club](https://www.hackclub.com/) community.
+
 
 <p align="center">
-<a href="https://www.hackclub.com"><img style="width: 256px" align="center" src="https://assets.hackclub.com/flag-orpheus-left.svg" alt="Hack Club"/></a><a href="https://www.linkscape.app"><img style="width: 256px" align="center" src="https://cdn.linkscape.app/linkscape-logo.png" alt="LinkScape"/></a>
+<a href="https://www.hackclub.com"><img style="width: 256px" align="center" src="https://assets.hackclub.com/flag-orpheus-left.svg" alt="Hack Club"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkscape.app"><img style="width: 256px" align="center" src="https://cdn.linkscape.app/linkscape-logo.png" alt="LinkScape"/></a>
 </p>
