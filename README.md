@@ -4,7 +4,7 @@
 
 ## 💬 About Me
 
-I’m Thomas Wu, a 15-year-old student developer and swimming athlete based in Shanghai, China.  
+I’m Thomas Wu, a 15-year-old student developer based in Shanghai, China.  
 I build useful software and lead technical communities.
 
 - 🧑‍💻 **Founder & CEO [@LinkScapeOfficial](https://github.com/LinkScapeOfficial)** – Shanghai’s largest student-led open-source organization 
